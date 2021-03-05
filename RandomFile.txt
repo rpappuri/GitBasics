@@ -1,1 +1,2 @@
 Hello Folks!! This is Random File 1. Here we are trying to learn Git basics like pull request push request, Merge, branch etc.
+Here we are making changes in the new branch. We will later merge this branch with main.
